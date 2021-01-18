@@ -1,0 +1,6 @@
+[submodule "SecureThan-Desktop"]
+	path = SecureThan-Desktop
+	url = git@github.com:shaswata56/SecureThan-Desktop.git
+[submodule "SecureThan-Server"]
+	path = SecureThan-Server
+	url = git@github.com:shaswata56/SecureThan-Server.git
